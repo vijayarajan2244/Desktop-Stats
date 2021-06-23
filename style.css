@@ -9,7 +9,7 @@
 
 .items{
     justify-content: space-between;
-    margin-top: 40px;
+    margin-top: 45px;
     margin-right: 210px;
     margin-left: 25px;       
 }
@@ -30,7 +30,7 @@
 .content{
     color:rgb(214, 205, 205);
     padding-inline-start: 25px;
-    margin-top: 15px;
+    margin-top: 30px;
 }
 .highlights{
     color: rgb(134, 112, 255);
@@ -43,6 +43,7 @@
     border-radius: 5px;
     right: -17px;
     width: 20%;
+    
    
 }
 .footer{
